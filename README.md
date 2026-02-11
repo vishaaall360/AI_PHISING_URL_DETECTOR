@@ -34,7 +34,7 @@ Phishing attacks are one of the most common cybersecurity threats. This project 
 
 ## 📁 Project Structure
 
-Phishing-URL-Detection/
+* Phishing-URL-Detection/
 │
 ├── app.py # Flask web application
 ├── train_model.py # Model training script
